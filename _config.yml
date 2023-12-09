@@ -1,8 +1,8 @@
 # Setup
 title: Antonis Mikroutsikos Profile
-url: Antonios-Mikroutsikos.github.io
+url: https://antonis-mikroutsikos/Antonios-Mikroutsikos.github.io
 paginate: 1
-baseurl: ""
+baseurl: Antonios-Mikroutsikos.github.io
 permalink: pretty
 
 # Gems
